@@ -15,6 +15,6 @@ _And of course, 🖥 programming_
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuspectAverage5&theme=merko&layout=compact)
 
 Social Medias:
-[YouTube](https://www.youtube.com/channel/UCOADmUyNGCAbX2AerteZrDA) (it's dead now)
+[YouTube](https://www.youtube.com/channel/UCOADmUyNGCAbX2AerteZrDA)
 [Reddit](https://www.reddit.com/user/SuspectAverage5/)
 [StackOverFlow](https://stackoverflow.com/users/14946981/suspectaverage5)
